@@ -1,13 +1,18 @@
 # moviesrcV0.1 (movie downloader)
 (a simple script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and when it's fully completed the source code of this script will also be visible. In order to download any movie you just need to specify the release date and the movie name)
 
-##### Installation
+##### Installation for Debian{/Linux/Ubuntu/WSL2}
 
 	$ git clone https://github.com/ParanoidAtOath/movie_downloader.git
 	$ cd movie_downloader/
 	$ chmod +x install.sh moviesrc.sh
 	$ ./install.sh
 
+##### Installation for Android{/Termux}
+	$ git clone https://github.com/ParanoidAtOath/movie_downloader.git
+	$ cd movie_downloader/
+	$ chmod +x androidinstall.sh moviesrc.sh
+	$ ./androidinstall.sh
 
 ##### Screenshots and Usage
 1. usage1 : ./moviesrc.sh -h (for help page) - it shows the help manual of the script
