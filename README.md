@@ -1,8 +1,5 @@
-# moviesrc (movie downloader)
-a simple script written in bash that downloads movie
-
-##### Tool Name - moviesrc
-##### Version - v.0.1.0
+# moviesrcV0.1 (movie downloader)
+(a simple script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and when it's fully completed the source code of this script will also be visible. In order to download any movie you just need to specify the release date and the movie name)
 
 ##### Installation
 
