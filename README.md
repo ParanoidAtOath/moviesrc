@@ -29,3 +29,5 @@
 1. KaliLinux  [✔]
 2. Ubuntu     [✔]
 3. Termux     [✔]
+
+##### [NOTE : This isn't a professional tool and is made for knowledge and self-use, if you wish to contribute you can talk to me in personal at my social handles like twitter @nischal700, and i have not uploaded the entire tool/script. This is just a demo and still under development. Thank you !!!]
