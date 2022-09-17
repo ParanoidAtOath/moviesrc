@@ -9,7 +9,7 @@
 	$ ./install.sh
 
 
-##### Screenshots
+##### Screenshots and Usage
 1. usage1 : ./moviesrc.sh -h (for help page) - it shows the help manual of the script
 ![image](https://user-images.githubusercontent.com/92677594/190867673-67672b90-b68b-4782-8d78-1320ef759837.png)
 
@@ -20,5 +20,7 @@
 ![image](https://user-images.githubusercontent.com/92677594/190867905-1aee4b84-3ed8-49c2-8a27-fe01077c8ffa.png)
 ![image](https://user-images.githubusercontent.com/92677594/190867958-efd3d88e-086e-4864-afe4-a1e7cbb4b183.png)
 
-
-
+##### Tested On Platforms
+1. KaliLinux  [✔]
+2. Ubuntu     [✔]
+3. Termux     [✔]
