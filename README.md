@@ -10,10 +10,10 @@
 
 
 ##### Screenshots
-1. usage1 : ./moviesrc.sh -h (for help page)
+1. usage1 : ./moviesrc.sh -h (for help page) - it shows the help manual of the script
 ![image](https://user-images.githubusercontent.com/92677594/190867673-67672b90-b68b-4782-8d78-1320ef759837.png)
 
-2. usage2 : ./moviesrc.sh (info / syntax)
+2. usage2 : ./moviesrc.sh (info / syntax) - it should follow the same order in oder to download movie
 ![image](https://user-images.githubusercontent.com/92677594/190867774-53580add-a759-4910-8314-353d066afb25.png)
 
 3. usage3 : ./moviesrc.sh [DATE] [MOVIE NAME] (for e.g : ./moviesrch.sh 2019 joker / ./moviesrch.sh 2022 "the batman")
