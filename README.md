@@ -3,15 +3,15 @@
 
 ##### Installation for Debian{/Linux/Ubuntu/WSL2}
 	$ sudo apt-get install git
-	$ git clone https://github.com/ParanoidAtOath/movie_downloader.git
-	$ cd movie_downloader/
+	$ git clone https://github.com/ParanoidAtOath/moviesrc.git
+	$ cd moviesrc/
 	$ chmod +x install.sh moviesrc.sh
 	$ ./install.sh
 
 ##### Installation for Android{/Termux}
 	$ pkg install git -y
-	$ git clone https://github.com/ParanoidAtOath/movie_downloader.git
-	$ cd movie_downloader/
+	$ git clone https://github.com/ParanoidAtOath/moviesrc.git
+	$ cd moviesrc/
 	$ chmod +x androidinstall.sh moviesrc.sh
 	$ ./androidinstall.sh
 
