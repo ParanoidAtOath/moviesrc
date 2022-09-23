@@ -62,7 +62,7 @@ echo -e "
 |Example2    :  ./moviesrc.sh 2005 'v for vendetta' 720p                                  |
 |Example3    :  ./moviesrc.sh 2019 'toy story 4' 2160p                                    |
 |Example4    :  ./moviesrc.sh 1972 'the godfather' (by default 1080p)                     |
-|Example5    :  ./moviesrc.sh 1990 "the godfather part III" (specify the name correctly)  |
+|Example5    :  ./moviesrc.sh 1990 'the godfather part III' (specify the name correctly)  |
 |Example6    :  ./moviesrc.sh --imdb 250 (will list top 250 imdb based movies with dates) |
 |Example4    :  ./moviesrc.sh --random (will randomly suggest you a good movie name)      |
 '-----------------------------------------------------------------------------------------'
