@@ -1,5 +1,5 @@
 # moviesrc (movie downloader)
-(a script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and it's ony for learning purposes, you can get the idea of this script by looking at it's source code. In order to download any movie you just need to specify the release date (followed by the "-d") and the movie name(followed by "-m"), while you can also specify the movie quality upto ("2160p, being the highest"))
+(a script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and it's ony for learning purposes, you can get the idea of this script by looking at it's source code. In order to download any movie you just need to specify the release date (followed by the "-d") and the movie name (followed by "-m"), while you can also specify the movie quality upto [ "2160p" being the highest ])
 
 ### In-order to use this tool effieciently please read the help manual !!!
 ##### Installation for Debian{/Linux/Ubuntu/WSL2}
