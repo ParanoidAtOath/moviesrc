@@ -1,31 +1,30 @@
 # moviesrcV0.1 (movie downloader)
-(a simple script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and when it's fully completed the source code of this script will also be visible. In order to download any movie you just need to specify the release date and the movie name)
+(a script written in bash that downloads movie in an easy and efficient way.. (still under development) it will be updated frequently and it's ony for learning purposes, you can get the idea of this script by looking at it's source code. In order to download any movie you just need to specify the release date (followed by the "-d") and the movie name(followed by "-m"), while you can also specify the movie quality upto ("2160p, being the highest"))
 ##### In-order to use this tool effieciently please read the help manual !!!
 ##### Installation for Debian{/Linux/Ubuntu/WSL2}
 	$ sudo apt-get install git
 	$ git clone https://github.com/ParanoidAtOath/moviesrc.git
 	$ cd moviesrc/
 	$ chmod +x install.sh moviesrc.sh
-	$ ./install.sh
+	$ ./install.sh (if prompted type "y")
 
 ##### Installation for Android{/Termux}
 	$ pkg install git -y
 	$ git clone https://github.com/ParanoidAtOath/moviesrc.git
 	$ cd moviesrc/
 	$ chmod +x androidinstall.sh moviesrc.sh
-	$ ./androidinstall.sh
+	$ ./androidinstall.sh (if prompted type "y")
 
 ##### Screenshots and Usage
-1. usage1 : ./moviesrc.sh --help (for help page) - it shows the help manual of the script
-![image](https://user-images.githubusercontent.com/92677594/192044211-36c4711a-f42f-4713-9369-9817a795212a.png)
-![image](https://user-images.githubusercontent.com/92677594/192044615-0e72bae2-a34d-456f-ac75-c089f3d57986.png)
+1. usage1 : ./moviesrc.sh --help/-h (for help page) - it shows the help manual of the script
+![image](https://user-images.githubusercontent.com/92677594/192524250-f469db2a-c45e-48ee-897e-ff85737e1f07.png)
 
 2. usage2 : ./moviesrc.sh (info / syntax) - it should follow the same order in oder to download movie
-![image](https://user-images.githubusercontent.com/92677594/192044801-b7d12690-de6e-4db4-a946-207d74aea823.png)
+![image](https://user-images.githubusercontent.com/92677594/192524526-6973ab51-57df-4e8e-bf9b-8d45f05e4e39.png)
 
-3. usage3 : ./moviesrc.sh [DATE] [MOVIE NAME] [QUALITY] (for e.g : ./moviesrc.sh 2019 joker 1080p | ./moviesrc.sh 2022 "the batman" 720p)
-![image](https://user-images.githubusercontent.com/92677594/192045296-601c600f-8aa2-4adc-bc82-0d4b38c63d97.png)
-![image](https://user-images.githubusercontent.com/92677594/192045553-2e3e5a40-51af-4f7e-afbd-102a45e93143.png)
+3. usage3 : ./moviesrc.sh -d [DATE] -m [MOVIE NAME] -q [QUALITY] (if movie name is more than a word then use quotes "")
+![image](https://user-images.githubusercontent.com/92677594/192525148-473f8f62-b2d1-4ee1-8f79-74475e0467aa.png)
+
 
 4. usage4 : ./moviesrc.sh --imdb 250 (will list top 250 imdb based movies with dates)
 ![image](https://user-images.githubusercontent.com/92677594/192045910-047e8ce7-a692-4118-89b6-93002aa96ed2.png)
