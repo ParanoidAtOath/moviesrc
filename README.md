@@ -42,6 +42,9 @@
 1. KaliLinux  [✔]
 2. Ubuntu     [✔]
 3. Termux     [✔]
+4. WSL/WSL2   [✔]
+5. RedHat     [✔]
+6. MacOS      [✔]
 
 #### Upcoming updates
 1. Adding multiple subtitles for preferred language.
