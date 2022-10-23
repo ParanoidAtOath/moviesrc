@@ -1,5 +1,5 @@
 # moviesrc (movie downloader)
-( A script written in 'Bash' that downloads movie in an easy and efficient way... (still under development), so it will be updated frequently and it's ony for learning purposes, you can get the idea of this script by looking at it's source code. In order to download any movie you just need to specify the release date (followed by the "-d") and the movie name (followed by "-m"), while you can also specify the movie quality upto ("2160p" being the highest ) and if quality not specified then the default will be "1080p" with subtitles.)
+( A script written in 'Bash' that downloads movie easily using torrents)
 
 ### In-order to use this tool effieciently please read the help manual !!!
 ##### Installation for Debian{/Linux/Ubuntu/WSL2}
@@ -38,15 +38,7 @@
 6. usage6 : ./moviesrc.sh --getinfo (provides the infomation about the movie with ratings)
 ![image](https://user-images.githubusercontent.com/92677594/192532039-ec808634-77eb-42da-a11b-7ea1fb1d355a.png)
 
-#### Tested On Platforms
-1. KaliLinux  [✔]
-2. Ubuntu     [✔]
-3. Termux     [✔]
-4. WSL/WSL2   [✔]
-5. RedHat     [✔]
-6. MacOS      [✔]
-
-#### Upcoming updates
+#### Upcoming updates maybe :
 1. Adding multiple subtitles for preferred language.
 2. Adding multiple audio for different languages.
 3. Adding Web Series/ Animes/ Tv Series/ Cartoons and many more.
@@ -54,4 +46,4 @@
 5. Recursive movies and series downloading for sequels and episodes.
 6. And so on !!!
 
-#### [NOTE : This isn't a professional tool and is made for knowledge and self-use, if you wish to contribute you can talk to me in personal at my social handles like twitter @nischal700, and I have not uploaded the entire tool/script. This is just a demo and still under development. Thank you !!!]
+#### [NOTE : This isn't a professional tool and is made for knowledge, fun and self-use. Thank you !!!]
